@@ -82,5 +82,13 @@ module.exports = [
     link: 'https://www.linkedin.com/posts/widya-indonesia_pt-widya-inovasi-indonesia-is-looking-for-activity-6679343010666442753-nZt-',
     description:
       'WII bergerak di bidang Artificial Intelligence dan Internet of Things. Bertempat di Yogyakarta.'
+  },
+  {
+    name: 'PT Paragon Technology & Innovation',
+    category: 'fmcg',
+    link: 'https://forms.gle/dzbkNEepevFNDiiE7',
+    description:
+      'Paragon Technology & Innovation adalah salah satu perusahaan FMCG Lokal Kosmetik terbesar di Indonesia, kami banyak menerapkan dan mengembangkan solusi berbasis open-source untuk menjawab kebutuhan bisnis kita di area Product R&D, Manufacturing, Product Development, Marketing, Sales, Supply Chain, Logistics & Distribution. Divisi IT kita bertempat di Jakarta Selatan.'
   }
+  
 ];
